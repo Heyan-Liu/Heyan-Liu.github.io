@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "刘赫妍.png"
   name             : "HeYan Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Computer Vision"
   location         : "China"
-  employer         :#
+  employer         : "Northeast Normal University"
   uri              : # URL
-  email            : liuheyan@nenu.edu.cn
+  email            : "liuheyan@nenu.edu.cn"
 
   # Academic websites
   arxiv            :#
   googlescholar    :#
   impactstory      :# 
-  orcid            :# 
+  orcid            :"https://orcid.org/0009-0002-8284-4604"
   semantic         :#
   pubmed           :#
   researchgate     :# 
@@ -43,7 +43,7 @@ author:
   bitbucket        :# 
   codepen          :# 
   dribbble         :#
-  github           : "academicpages"
+  github           : ""
   kaggle           :# 
   stackoverflow    :#   
 
