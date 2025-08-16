@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HeYan Liu"
+title                    : "Heyan Liu"
 title_separator          : "-"
-name                     : &name "HeYan Liu"
+name                     : &name "Heyan Liu"
 description              : &description "doctoral student in Computer Vision"
 url                      : https://heyan-liu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "刘赫妍.png"
-  name             : "HeYan Liu"
+  name             : "Heyan Liu"
   pronouns         : "she/her"  
   bio              : "Computer Vision"
   location         : "China"
@@ -34,7 +34,7 @@ author:
   arxiv            :#
   googlescholar    :#
   impactstory      :# 
-  orcid            :"https://orcid.org/0009-0002-8284-4604"
+  orcid            : https://orcid.org/0009-0002-8284-4604
   semantic         :#
   pubmed           :#
   researchgate     :# 
