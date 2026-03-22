@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            :#
-  googlescholar    :#
+  googlescholar    : "https://scholar.google.com/citations?user=3FS8gZsAAAAJ&hl=zh-CN"
   impactstory      :# 
   orcid            : "0009-0002-8284-4604"
   semantic         :#
@@ -43,7 +43,7 @@ author:
   bitbucket        :# 
   codepen          :# 
   dribbble         :#
-  github           : ""
+  github           : "https://github.com/Heyan-Liu"
   kaggle           :# 
   stackoverflow    :#   
 
