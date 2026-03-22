@@ -14,7 +14,7 @@ name                     : &name "Heyan Liu"
 description              : &description "doctoral student in Computer Vision"
 url                      : https://heyan-liu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Heyan-Liu/HeyanLiu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,21 +31,21 @@ author:
   email            : "liuheyan@nenu.edu.cn"
 
   # Academic websites
-  arxiv            :#
+  arxiv            : #
   googlescholar    : "https://scholar.google.com/citations?user=3FS8gZsAAAAJ&hl=zh-CN"
-  impactstory      :# 
+  impactstory      : # 
   orcid            : "0009-0002-8284-4604"
-  semantic         :#
-  pubmed           :#
-  researchgate     :# 
+  semantic         : #
+  pubmed           : #
+  researchgate     : # 
 
   # Repositories and software development
-  bitbucket        :# 
-  codepen          :# 
-  dribbble         :#
+  bitbucket        : # 
+  codepen          : # 
+  dribbble         : #
   github           : "https://github.com/Heyan-Liu"
-  kaggle           :# 
-  stackoverflow    :#   
+  kaggle           : # 
+  stackoverflow    : #
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
