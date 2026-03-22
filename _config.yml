@@ -12,15 +12,12 @@ title                    : "Heyan Liu"
 title_separator          : "-"
 name                     : &name "Heyan Liu"
 description              : &description "doctoral student in Computer Vision"
-url                      : https://heyan-liu.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://heyan-liu.github.io"
+baseurl                  : "/HeyanLiu.github.io"
 repository               : "Heyan-Liu/HeyanLiu.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
   avatar           : "/images/heyan_liu.jpg"
   name             : "Heyan Liu"
   pronouns         : "she/her"  
@@ -46,7 +43,6 @@ author:
   github           : "https://github.com/Heyan-Liu"
   kaggle           : # 
   stackoverflow    : #
-
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook          # Username
